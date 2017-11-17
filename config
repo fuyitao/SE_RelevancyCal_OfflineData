@@ -1,0 +1,11 @@
+# work_file
+work_file:bm25f_work_new
+
+# logs_file
+logs_file:logs
+
+# input
+input:/data/archive/app_oeudjgn5872a7c3aaa54_datamine/liuhe/article/id_seg_article_
+
+# output
+output:/user/rank/fuyitao/xihuan_article/xihuan_articleRelevancy
